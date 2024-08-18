@@ -55,20 +55,20 @@ const Contact = () => {
           <input
             type="text"
             name="name"
-            placeholder="Enter your full name"
+            placeholder="Enter Your Name"
             className="bg-tertiary p-4 text-white border font-medium"
           />
           <span className='text-white font-medium mt-3'>Email Address</span>
           <input
             type="text"
             name="email"
-            placeholder="Enter your email address"
+            placeholder="Enter Your Email Address"
             className="bg-tertiary p-4 text-white border font-medium"
           />
           <span className='text-white font-medium mt-3'>Message</span>
           <textarea
             name="message"
-            placeholder="Enter your message"
+            placeholder="Enter Your Message"
             rows="10"
             className="bg-tertiary p-4 text-white border font-medium"
           />
